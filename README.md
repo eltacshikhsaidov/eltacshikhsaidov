@@ -1,4 +1,4 @@
-### Hi there, I'm Eltac Shixseyidov [eltac](https://shixseyidrin.blogspot.com/) 👋
+### Hi there, I'm Eltac Shixseyidov [eltac](http://eltac.herokuapp.com/) 👋
 
 
 - 🌱 I’m currently learning everything 🤣
@@ -42,5 +42,5 @@
 ### 📕  Blog Posts
 
 
-➡️ [-->](https://www.eltacshixseyidov.blogspot.com)
+➡️ [-->](https://shixseyidrin.blogspot.com/)
 
