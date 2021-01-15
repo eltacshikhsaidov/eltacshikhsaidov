@@ -1,4 +1,4 @@
-### Hi there, I'm Eltac Shixseyidov [eltac][https://shixseyidrin.blogspot.com/] 👋
+### Hi there, I'm Eltac Shixseyidov [eltac](https://shixseyidrin.blogspot.com/) 👋
 
 
 - 🌱 I’m currently learning everything 🤣
