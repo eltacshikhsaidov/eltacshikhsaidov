@@ -1,4 +1,4 @@
-### Hi there, I'm Eltac Shixseyidov [eltac][] 👋
+### Hi there, I'm Eltac Shixseyidov [eltac][https://shixseyidrin.blogspot.com/] 👋
 
 
 - 🌱 I’m currently learning everything 🤣
@@ -27,7 +27,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-[<img width=“26px” alt=“java 8 and prio java 8  array review example” src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png 23” />]
 
 <br />
 <br />
