@@ -9,13 +9,13 @@
 
 ### Websites I created:
 
-[pianojs](http://pianojs.herokuapp.com/)
-[portfolio](http://eltac.herokuapp.com/)
-[j-sms.me, Free sms service](http://j-sms.herokuapp.com/)
-[ems employee management service](http://paginatio-n.herokuapp.com/)
-[teqdimatim.az](http://teqdimatim.herokuapp.com/)
-[about-weather](http://about-weather.herokuapp.com/)
-[christmas-coming](http://christmas-coming.herokuapp.com/)
+- [pianojs](http://pianojs.herokuapp.com/)
+- [portfolio](http://eltac.herokuapp.com/)
+- [j-sms.me, Free sms service](http://j-sms.herokuapp.com/)
+- [ems employee management service](http://paginatio-n.herokuapp.com/)
+- [teqdimatim.az](http://teqdimatim.herokuapp.com/)
+- [about-weather](http://about-weather.herokuapp.com/)
+- [christmas-coming](http://christmas-coming.herokuapp.com/)
 
 ### Connect with me:
 
