@@ -8,6 +8,7 @@
 
 
 ### Websites I created:
+
 <br>
       [pianojs](http://pianojs.herokuapp.com/)
       [portfolio](http://eltac.herokuapp.com/)
@@ -17,6 +18,7 @@
       [about-weather](http://about-weather.herokuapp.com/)
       [christmas-coming](http://christmas-coming.herokuapp.com/)
 </br>
+
 ### Connect with me:
 
 [<img align="left" alt="eltac.herokuapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://www.eltac.herokuapp.com)
