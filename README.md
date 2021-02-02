@@ -9,8 +9,8 @@
 
 ### Websites I created:
 
-- [teqdimatim.az](http://teqdimatim.herokuapp.com/)
-- [portfolio](http://eltac.herokuapp.com/)
+- [teqdimatim.az](http://teqdimatim.com/)
+- [portfolio](http://eltacshikhsaidov.me/)
 - [omnifoodjs](https://omnifoodjs.herokuapp.com/)
 - [ems employee management service](http://paginatio-n.herokuapp.com/)
 - [pianojs](http://pianojs.herokuapp.com/)
