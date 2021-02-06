@@ -1,4 +1,4 @@
-### Hi there, I'm Eltac Shixseyidov [eltac](http://eltac.herokuapp.com/) 👋
+### Hi there, I'm [Eltac Shixseyidov](http://eltacshikhsaidov.me/) 👋
 
 
 - 🌱 I’m currently learning everything 🤣
