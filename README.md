@@ -20,7 +20,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="eltac.herokuapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://www.eltac.herokuapp.com)
+[<img align="left" alt="my website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://eltacshikhsaidov.me/)
 [<img align="left" alt="eltac shixseyidov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC2PqkDRZPF_4MOIuIFJ-DDA)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/eltac-shikhsaidov-babb40187/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/eltacshixseyidov/)
