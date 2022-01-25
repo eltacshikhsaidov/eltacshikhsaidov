@@ -9,6 +9,8 @@
 
 ### Websites I created:
 
+- [virtual lms] (http://virtlib.herokuapp.com/)
+- [recommendation api] (bookrecommenderapi.herokuapp.com/)
 - [teqdimatim.az](http://teqdimatim.com/)
 - [portfolio](http://eltacshikhsaidov.me/)
 - [omnifoodjs](https://omnifoodjs.herokuapp.com/)
