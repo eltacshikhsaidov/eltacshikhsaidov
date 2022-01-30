@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to eat and play guitar / drums
 
 
@@ -11,6 +11,7 @@
 
 - [virtual lms](http://virtlib.herokuapp.com/)
 - [recommendation api](https://bookrecommenderapi.herokuapp.com/api/books/all)
+- [qr-code-generator](https://qr-kod.herokuapp.com/)
 - [teqdimatim.az](http://teqdimatim.com/)
 - [portfolio](http://eltacshikhsaidov.me/)
 - [omnifoodjs](https://omnifoodjs.herokuapp.com/)
