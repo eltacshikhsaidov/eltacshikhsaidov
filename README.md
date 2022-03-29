@@ -9,7 +9,7 @@
 
 ### Websites I created:
 
-- [virtual lms](http://virtlib.herokuapp.com/)
+- [cube lms](http://cubelms.herokuapp.com/)
 - [recommendation api](https://bookrecommenderapi.herokuapp.com/api/books/all)
 - [qr-code-generator](https://qr-kod.herokuapp.com/)
 - [teqdimatim.az](http://teqdimatim.com/)
