@@ -1,65 +1,61 @@
-### Hi there, I'm [Eltac Shixseyidov](http://eltacshikhsaidov.me/) 👋
+Hi 👋 My name is Eltac Shikhsaidov
+==================================
 
+Web developer and Problem Solver
+--------------------------------
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to eat and play guitar / drums
+I've been code for 2 years, since my second year of the university.
 
+* 🌍  I'm based in Baku
+* 🖥️  See my portfolio at [EazySchool](http://eazyschool.herokuapp.com/)
+* ✉️  You can contact me at [eltac.shixseyidov@gmail.com](mailto:eltac.shixseyidov@gmail.com)
+* 🚀  I'm currently working on [Cube LMS](http://cubelms.herokuapp.com)
+* 🧠  I'm learning React, NodeJS
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  I'm problem solver
 
-### Websites I created:
+<a href="https://www.github.com/eltacshikhsaidov" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/eltacshikhsaidov?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Skills
 
-- [cube lms](http://cubelms.herokuapp.com/)
-- [recommendation api](https://bookrecommenderapi.herokuapp.com/api/books/all)
-- [qr-code-generator](https://qr-kod.herokuapp.com/)
-- [teqdimatim.az](http://teqdimatim.com/)
-- [portfolio](http://eltacshikhsaidov.me/)
-- [omnifoodjs](https://omnifoodjs.herokuapp.com/)
-- [ems employee management service](http://paginatio-n.herokuapp.com/)
-- [pianojs](http://pianojs.herokuapp.com/)
-- [j-sms.me, Free sms service](http://j-sms.herokuapp.com/)
-- [about-weather](http://about-weather.herokuapp.com/)
-- [christmas-coming](http://christmas-coming.herokuapp.com/)
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-### Connect with me:
+### Socials
 
-[<img align="left" alt="my website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://eltacshikhsaidov.me/)
-[<img align="left" alt="eltac shixseyidov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC2PqkDRZPF_4MOIuIFJ-DDA)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/eltac-shikhsaidov-babb40187/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/eltacshixseyidov/)
+<p align="left"> <a href="https://www.facebook.com/eltac.shikhsaidov/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/eltacshikhsaidov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/eltacshixseyidov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/eltac-shikhsaidov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/11474902/eltac-shikhsaidov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+### Badges
 
-<br />
+<b>My GitHub Stats</b>
 
-### Languages and Tools:
+<a href="http://www.github.com/eltacshikhsaidov"><img src="https://github-readme-stats.vercel.app/api?username=eltacshikhsaidov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="eltacshikhsaidov's GitHub stats" /></a>
 
-<img align="left" alt = "Java" width="26px" src="https://classes.engineering.wustl.edu/cse231/core/images/2/26/Java.png">
-<img align="left" alt="Intellij Idea" width="26px" src="https://brandeps.com/logo-download/I/Intellij-Idea-logo-vector-01.svg">
-<img align="left" alt="Spring" width="26px" src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg">
-<img align="left" alt="Heroku" width="26px" src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/v1491420676/cenlvst0fgs8ejx12n8u.png">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<a href="http://www.github.com/eltacshikhsaidov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eltacshikhsaidov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<br />
-<br />
+<a href="http://www.github.com/eltacshikhsaidov"><img src="https://activity-graph.herokuapp.com/graph?username=eltacshikhsaidov&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
----
+<a href="https://github.com/eltacshikhsaidov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltacshikhsaidov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### 📺 YouTube Channel
+<b>Top Repositories</b>
 
-➡️ [-->](https://www.youtube.com/channel/UC2PqkDRZPF_4MOIuIFJ-DDA)
+<div width="100%" align="center"><a href="https://github.com/eltacshikhsaidov/eazyschool" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eltacshikhsaidov&repo=eazyschool&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/eltacshikhsaidov/recommend-api" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eltacshikhsaidov&repo=recommend-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
----
+<br /><br /><br /><br /><br />
 
-### 📕  Blog Posts
-
-
-➡️ [-->](https://shixseyidrin.blogspot.com/)
+<div width="100%" align="center"><a href="https://github.com/eltacshikhsaidov/task-tracker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eltacshikhsaidov&repo=task-tracker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/eltacshikhsaidov/tic-tac-toe" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eltacshikhsaidov&repo=tic-tac-toe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
