@@ -10,6 +10,7 @@ I've been code for 2 years, since my second year of the university.
 * 🖥️  See my portfolio at [EazySchool](http://eazyschool.herokuapp.com/)
 * ✉️  You can contact me at [eltac.shixseyidov@gmail.com](mailto:eltac.shixseyidov@gmail.com)
 * 🚀  I'm currently working on [Cube LMS](http://cubelms.herokuapp.com)
+* 🚀  I'm currently working on [E Store](https://e-commerce-az.netlify.app/)
 * 🧠  I'm learning React, NodeJS
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm problem solver
